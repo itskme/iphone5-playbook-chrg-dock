@@ -1,5 +1,7 @@
 # Playbook + iPhone = your new nightstand clock
 
+![crop](https://github.com/user-attachments/assets/72cd499a-f453-4c41-9aad-3bbd6a3d24d3)
+
 Hello!
 
 This is a dock which allows you to place a BlackBerry Playbook and iphone 5/5s/se side-by-side to make a clock/calendar/weather device for your nightstand. 
